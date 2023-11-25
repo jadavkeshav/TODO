@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:3000';
+const BASE_URL = 'https://todotracker.vercel.app/';
 async function addTask() {
   const taskInput = document.getElementById('taskInput');
   const taskList = document.getElementById('taskList');
